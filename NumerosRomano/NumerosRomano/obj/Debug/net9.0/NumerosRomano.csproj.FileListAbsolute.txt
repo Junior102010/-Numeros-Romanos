@@ -1,0 +1,15 @@
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\bin\Debug\net9.0\NumerosRomano.exe
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\bin\Debug\net9.0\NumerosRomano.deps.json
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\bin\Debug\net9.0\NumerosRomano.runtimeconfig.json
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\bin\Debug\net9.0\NumerosRomano.dll
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\bin\Debug\net9.0\NumerosRomano.pdb
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\obj\Debug\net9.0\NumerosRomano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\obj\Debug\net9.0\NumerosRomano.AssemblyInfoInputs.cache
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\obj\Debug\net9.0\NumerosRomano.AssemblyInfo.cs
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\obj\Debug\net9.0\NumerosRomano.csproj.CoreCompileInputs.cache
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\obj\Debug\net9.0\NumerosRomano.sourcelink.json
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\obj\Debug\net9.0\NumerosRomano.dll
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\obj\Debug\net9.0\refint\NumerosRomano.dll
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\obj\Debug\net9.0\NumerosRomano.pdb
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\obj\Debug\net9.0\NumerosRomano.genruntimeconfig.cache
+C:\Programacion Aplicada\NumerosRomano\NumerosRomano\obj\Debug\net9.0\ref\NumerosRomano.dll
